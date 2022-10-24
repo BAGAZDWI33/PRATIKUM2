@@ -8,7 +8,7 @@ access modifier = public,private,default, dan protected.
 
 access modifier
 
-public class Person {    
+    public class Person {    
     private String Nama;
     private String JenisKelamin;
     private int Umur;
