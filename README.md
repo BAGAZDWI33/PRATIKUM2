@@ -6,13 +6,13 @@ link = "https://github.com/BAGAZDWI33/setter_getter_PRATIKUM2.git"
 Mendeklarasikan class Person, dengan atribut Nama, JenisKelamin, Umur. /t
 access modifier = public,private,default, dan protected.
 
-acces modifier
+access modifier
 
-public class Person {   //public ini termasuk access modifier
+public class Person {    
     private String Nama;
     private String JenisKelamin;
     private int Umur;
-}
+} // public itu termasuk access modifier
 
 setter_getter
 
