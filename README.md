@@ -3,7 +3,9 @@
 
 link = "https://github.com/BAGAZDWI33/setter_getter_PRATIKUM2.git"
 
-Mendeklarasikan class Person, dengan atribut Nama, JenisKelamin, Umur. /t
+Mendeklarasikan class Person, dengan atribut Nama, JenisKelamin, Umur. 
+
+
 access modifier = public,private,default, dan protected.
 
 access modifier
@@ -73,11 +75,23 @@ hasil itu berada di gambar img = "screenshot1"
 dengan hasil
 
 Nama          : Anton
+
+
 Jenis Kelamin : laki-laki
+
+
 Umur          : 23
+
+
 Nama          : Riko
+
+
 Jenis Kelamin : laki-laki
+
+
 Umur          : 21
+
+
 
 Demikian penjelasan dari saya, Terima kasih
 
