@@ -13,8 +13,6 @@ public class Person {   //public ini termasuk access modifier
 
 setter_getter
 
-
-//setter
     public void setNama(String Nama){
         this.Nama = Nama;
     }
@@ -22,8 +20,7 @@ setter_getter
         this.JenisKelamin = JenisKelamin;
     }
     public void  setUmur(int Umur){
-        this.Umur = Umur;
-//getter
+        this.Umur = Umur
     }
     public String getNama(){
         return this.Nama;
