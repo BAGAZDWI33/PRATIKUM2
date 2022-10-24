@@ -34,7 +34,7 @@ setter_getter
     public int getUmur(){
         return this.Umur;
     }
-
+}
 
     cara membaca setter dan getter
 
